@@ -11,13 +11,6 @@
 #This music’s the only thing keeping the peace when I’m falling to pieces
 #             https://www.youtube.com/watch?v=p6uBo-vC-Ro
 
-#Keep my boys around, all you others bore me
-#Don't talk to no one, don't steal my glory
-#Fuck, fuck my glory, the whole world ignores me
-
-#2 Sad 4 U
-#https://www.youtube.com/watch?v=tMgkt9jdjTU&start=81
-
 #Color console
 W  = '\033[0m'  # white
 R  = '\033[31m' # red
