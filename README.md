@@ -1,2 +1,2 @@
 # CrescentMoon
-Python Adventure Game (Not Finished)
+Python Adventure Game Based on Zork (Not Finished)
